@@ -1,1 +1,2 @@
-# github-example0
+# Hello Github
+# Message from Coursera
